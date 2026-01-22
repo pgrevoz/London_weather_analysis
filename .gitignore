@@ -10,3 +10,6 @@ __pycache__/
 
 # Notebooks checkpoints
 .ipynb_checkpoints/
+
+# Local database
+weather.duckdb
